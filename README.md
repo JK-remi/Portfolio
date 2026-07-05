@@ -82,7 +82,7 @@ NPC와 자연스럽게 대화할 수 있는 AI RPG
 `Unity` `Azure OpenAI` `Azure AI Search` `Azure Speech`
 
 🔗 GitHub
-https://github.com/JK-remi/AI-NPC-RPG
+https://github.com/JK-remi/LLM-NPC-RPG
 
 ---
 
