@@ -95,7 +95,7 @@ Azure Vision과 Unity를 활용하여
 `Unity` `Azure Vision` `AR Foundation`
 
 🔗 GitHub
-https://github.com/JK-remi/AR-Object-Recognition
+https://github.com/JK-remi/AR-Animal-Recognition
 
 ---
 
