@@ -41,7 +41,7 @@ Unity 기반 게임 클라이언트 개발 경험을 바탕으로 **Gameplay, AI
 
 # Career
 
-## Oracle War (2018.08 ~ 2024.06)
+## Celestials-Oracle War (2016.06 ~ 2018.11)
 
 Unity 기반 모바일 Action RPG 프로젝트 개발
 
